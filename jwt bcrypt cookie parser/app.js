@@ -44,7 +44,7 @@ app.post('/create', async (req, res) => {
         {
             email: email
         },
-        "lawrencebishnoi"
+        "shhh"
     );
 
 
@@ -93,7 +93,7 @@ app.post('/login', async(req,res)=>{
             {
                 email:user.email
             },
-            "lawrencebishnoi"
+            "shhh"
         );
 
 
